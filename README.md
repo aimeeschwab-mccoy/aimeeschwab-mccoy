@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hiya!
 
-<!--
-**aimeeschwab-mccoy/aimeeschwab-mccoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Aimee Schwab-McCoy, and I'm an Assistant Professor of Statistics and Data Science at Creighton University! I teach classes in statistics, data science, and machine learning, and I'm the Program Director for our major & minor in Data Science.
 
-Here are some ideas to get you started:
+Some projects I'm working on...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data science curriculum development 📚
+- Learning about statistical inference in introductory biostatistics 🧬
+- Models for social distancing adherence during the COVID-19 pandemic 🦠
+- Generalized linear mixed models (GLMMs) in SAS PROC GLIMMIX ➡️ R 🖥
+- Developing learnr tutorials for biostatistics and mathematical statistics 📊
+- Consulting projects (a little of this, a little of that) 🐝🏥🥇
+
+Some classes I teach (and have GitHub repos for!)...
+
+- MTH 361: Probability and Statistics in the Health Science 💉
+- MTH 561: Mathematical Statistics I (Probability) 🎲
+
+You can find me...
+
+- Twitter: @AimeeSMcCoy
+- Email: aimeeschwab-mccoy <AT> creighton ⚫️ edu
+  
+
