@@ -4,7 +4,7 @@ My name is Aimee Schwab-McCoy, and I'm an Assistant Professor of Statistics and 
 
 Some projects I'm working on...
 
-- Data science curriculum development 📚
+- Data science curriculum development 🏫
 - Learning about statistical inference in introductory biostatistics 🧬
 - Models for social distancing adherence during the COVID-19 pandemic 🦠
 - Generalized linear mixed models (GLMMs) in SAS PROC GLIMMIX ➡️ R 🖥
@@ -14,6 +14,7 @@ Some projects I'm working on...
 Some classes I teach (and have GitHub repos for!)...
 
 - MTH 361: Probability and Statistics in the Health Science 💉
+- MTH 362: Statistical Modeling 📚
 - MTH 365: Introduction to Data Science 💻
 - MTH 561: Mathematical Statistics I (Probability) 🎲
 
