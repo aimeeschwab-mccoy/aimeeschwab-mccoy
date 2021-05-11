@@ -1,6 +1,8 @@
 ### Hiya!
 
-My name is Aimee Schwab-McCoy, and I'm an Assistant Professor of Statistics and Data Science at Creighton University! I teach classes in statistics, data science, and machine learning, and I'm the Program Director for our major & minor in Data Science.
+My name is Aimee Schwab-McCoy, and I'll be a Lecturer in Population Health Informatics and Statistics at IT Sligo beginning in Fall 2021. 
+
+Before that, I was an Assistant Professor of Statistics and Data Science and the Data Science Program Director at Creighton University. I teach classes in statistics, biostatistics, data science, and machine learning.
 
 Some projects I'm working on...
 
@@ -11,7 +13,7 @@ Some projects I'm working on...
 - Developing learnr tutorials for biostatistics and mathematical statistics 📊
 - Consulting projects (a little of this, a little of that) 🐝🏥🥇
 
-Some classes I teach at Creighton (and have GitHub repos for!)...
+Some classes I taught at Creighton (and more importantly have GitHub repos for)...
 
 - MTH 361: Probability and Statistics in the Health Science 💉
 - MTH 362: Statistical Modeling 📚
@@ -22,6 +24,6 @@ Some classes I teach at Creighton (and have GitHub repos for!)...
 You can find me...
 
 - Twitter: @AimeeSMcCoy
-- Email: aimeeschwab-mccoy <AT> creighton ⚫️ edu
+- Email: aimeeschwabmccoy <AT> gmail ⚫️ edu
   
 
