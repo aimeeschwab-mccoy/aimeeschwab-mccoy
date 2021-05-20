@@ -21,9 +21,11 @@ Some classes I taught at Creighton (and more importantly have GitHub repos for).
 - MTH 366: Machine Learning 🤖
 - MTH 561: Mathematical Statistics I (Probability) 🎲
 
+Course repos are currently set to private - email me if you'd like access!
+
 You can find me...
 
 - Twitter: @AimeeSMcCoy
-- Email: aimeeschwabmccoy <AT> gmail ⚫️ edu
+- Email: aimeeschwabmccoy @ gmail ⚫️ edu
   
 
