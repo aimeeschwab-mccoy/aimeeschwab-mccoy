@@ -1,4 +1,4 @@
-Hello! My name is Aimee, and I'm a statistics professor and data science content developer. I teach classes and create online content for statistics, biostatistics, data science, and machine learning.
+Hello! My name is Aimee, and I'm a fomer statistics professor turned data science content developer and educator. I create online content for statistics, biostatistics, data science, and machine learning.
 
 Some of my projects include:
 
@@ -8,7 +8,7 @@ Some of my projects include:
 - Developing learnr tutorials for applied statistics, data scence, and statistical theory 📊
 - Consulting projects (a little of this, a little of that) 🐝🏥🥇
 
-Some specific coures I have GitHub repos for are...
+Some specific coures I taught and have GitHub repos for are...
 
 - MTH 361: Probability and Statistics in the Health Science 💉
 - MTH 362: Statistical Modeling 📚
